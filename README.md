@@ -9,3 +9,4 @@ rails new library -T --database=postgresql --api --skip-listen --skip-turbolinks
 - Tailwind CSS
 - axios
 - react-router-dom
+- rack-cors
